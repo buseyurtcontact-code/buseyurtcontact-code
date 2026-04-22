@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Buse Yurt</h1>
 <h3 align="center">Statistics Student</h3>
 
-- 📫 How to reach me **buse.yurt.contact@gmail.com**
+- How to reach me **buse.yurt.contact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
