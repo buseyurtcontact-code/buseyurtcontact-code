@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 
 
-[![MasterHead](https://i.pinimg.com/1200x/4c/6d/67/4c6d67afac53770457a638bfe2cb27ed.jpg)]
-
-
 <h1 align="center">Hi 👋, I'm Buse Yurt</h1>
 <h3 align="center">Statistics Student</h3>
 
