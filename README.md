@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 
 
 
-![snake gif](https://github.com/buseyurtcontact-code/buseyurtcontact-code/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/buseyurtcontact-code/buseyurtcontact-code/output/github-contribution-grid-snake.svg?v=1)
 
 
