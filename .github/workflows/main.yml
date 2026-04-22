@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: buseyurtcontact-code
           # Pembe yılan ve pembe tonlarında yemler
-          color_snake: '#ff69b4'
+          color_snake: '#FFB6C1'
           color_dots: '#ebedf0,#ffb6c1,#ff69b4,#db7093,#c71585'
           outputs: |
             dist/github-contribution-grid-snake.svg
