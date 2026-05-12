@@ -45,11 +45,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
 </a>
 
-<!-- MySQL -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
 <!-- MATLAB -->
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
@@ -97,12 +92,12 @@ Here are some ideas to get you started:
 
 <!-- SPSS -->
 <a href="https://www.ibm.com/spss" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/IBM_SPSS_logo.svg/512px-IBM_SPSS_logo.svg.png" alt="spss" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="spss" height="30"/>
 </a>
 
 <!-- Excel -->
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftoffice/microsoftoffice-original.svg" alt="excel" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="excel" height="30"/>
 </a>
 
 <!-- Git -->
