@@ -111,3 +111,18 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/buseyurtcontact-code/buseyurtcontact-code/blob/output/github-contribution-grid-snake-dark.svg#-)
 
 
+---
+
+## 📈 Öne Çıkan Projelerim
+
+### 🤖 Derin Öğrenme & Veri Bilimi
+* **[Baraj Su Seviyesi Tahminleme (Bitirme Tezi)](https://github.com/buseyurtcontact-code/bitirme-projesi---python):** İzmir'deki barajların doluluk oranlarını Yapay Sinir Ağları (ANN) kullanarak tahminleyen zaman serisi projesi. (Python)
+
+### 📊 İş Zekası (BI) & Görselleştirme
+* **[Global Yapay Zeka İş Piyasası Analizi](https://github.com/buseyurtcontact-code/Global-AI-Job-Market-Salary-Trends---Tableau-Analysis):** Tableau üzerinde 9 farklı analitik görselleştirme, trend çizgileri ve kümeleme analizi ile maaş kalıplarının incelenmesi.
+* **[Dünya Mutluluk Dashboard'u](https://github.com/buseyurtcontact-code/world_happiness_report2024_powerBI):** 150'den fazla ülkenin GSMH ve sosyal destek gibi 7 temel göstergesini analiz eden çok sayfalı interaktif Power BI çalışması.
+
+### ⚙️ Otomasyon & Raporlama
+* **[Excel VBA Regresyon & Korelasyon Analiz Aracı](https://github.com/buseyurtcontact-code/excelVBA_regresyon_korelasyon):** Kullanıcı verilerine göre katsayıları, grafikleri ve istatistiksel yorumları tek tıkla üreten makro otomasyonu.
+
+
