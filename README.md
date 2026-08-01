@@ -116,6 +116,9 @@ Here are some ideas to get you started:
 ## 📈 Öne Çıkan Projelerim
 
 ### 🤖 Derin Öğrenme & Veri Bilimi
+
+* **[LSTM ile Saatlik Enerji Tüketimi Tahmini](https://github.com/buseyurtcontact-code/ltsm-ile-enerji-t-ketimi-tahmini-btk-akademi-kurs-uygulama):** Zaman serisi verileri kullanılarak LSTM (Long Short-Term Memory) mimarisi ile gelecek 24 saatlik enerji tüketimini öngören uçtan uca derin öğrenme projesi. (Python, Keras, Scikit-Learn)
+* 
 * **[Baraj Su Seviyesi Tahminleme (Bitirme Tezi)](https://github.com/buseyurtcontact-code/bitirme-projesi---python):** İzmir'deki barajların doluluk oranlarını Yapay Sinir Ağları (ANN) kullanarak tahminleyen zaman serisi projesi. (Python)
 
 ### 📊 İş Zekası (BI) & Görselleştirme
