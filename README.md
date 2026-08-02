@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 
 * **[LSTM ile Saatlik Enerji Tüketimi Tahmini](https://github.com/buseyurtcontact-code/ltsm-ile-enerji-t-ketimi-tahmini-btk-akademi-kurs-uygulama):** Zaman serisi verileri kullanılarak LSTM (Long Short-Term Memory) mimarisi ile gelecek 24 saatlik enerji tüketimini öngören uçtan uca derin öğrenme projesi. (Python, Keras, Scikit-Learn)
 * 
-* **[Baraj Su Seviyesi Tahminleme (Bitirme Tezi)](https://github.com/buseyurtcontact-code/bitirme-projesi---python):** İzmir'deki barajların doluluk oranlarını Yapay Sinir Ağları (ANN) kullanarak tahminleyen zaman serisi projesi. (Python)
+* **[Baraj Su Seviyesi Tahminleme (Bitirme Tezi)](https://github.com/buseyurtcontact-code/izmir-dam-prediction-ann):** İzmir'deki barajların doluluk oranlarını Yapay Sinir Ağları (ANN) kullanarak tahminleyen zaman serisi projesi. (Python)
 
 ### 📊 İş Zekası (BI) & Görselleştirme
 * **[Global Yapay Zeka İş Piyasası Analizi](https://github.com/buseyurtcontact-code/Global-AI-Job-Market-Salary-Trends---Tableau-Analysis):** Tableau üzerinde 9 farklı analitik görselleştirme, trend çizgileri ve kümeleme analizi ile maaş kalıplarının incelenmesi.
