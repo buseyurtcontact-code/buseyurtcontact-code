@@ -112,20 +112,16 @@ Here are some ideas to get you started:
 
 
 ---
+## 📈 Featured Projects
 
-## 📈 Öne Çıkan Projelerim
+### 🤖 Deep Learning & Data Science
 
-### 🤖 Derin Öğrenme & Veri Bilimi
+* **[Hourly Energy Consumption Forecasting using LSTM](https://github.com/buseyurtcontact-code/ltsm-ile-enerji-t-ketimi-tahmini-btk-akademi-kurs-uygulama):** An end-to-end deep learning project predicting the next 24-hour energy consumption using time series data and LSTM (Long Short-Term Memory) architecture. (Python, Keras, Scikit-Learn)
+* **[Dam Water Level Forecasting (Graduation Thesis)](https://github.com/buseyurtcontact-code/izmir-dam-prediction-ann):** A time series project forecasting dam occupancy rates in İzmir using Artificial Neural Networks (ANN). (Python)
 
-* **[LSTM ile Saatlik Enerji Tüketimi Tahmini](https://github.com/buseyurtcontact-code/ltsm-ile-enerji-t-ketimi-tahmini-btk-akademi-kurs-uygulama):** Zaman serisi verileri kullanılarak LSTM (Long Short-Term Memory) mimarisi ile gelecek 24 saatlik enerji tüketimini öngören uçtan uca derin öğrenme projesi. (Python, Keras, Scikit-Learn)
-* 
-* **[Baraj Su Seviyesi Tahminleme (Bitirme Tezi)](https://github.com/buseyurtcontact-code/izmir-dam-prediction-ann):** İzmir'deki barajların doluluk oranlarını Yapay Sinir Ağları (ANN) kullanarak tahminleyen zaman serisi projesi. (Python)
+### 📊 Business Intelligence (BI) & Data Visualization
+* **[Global AI Job Market & Salary Analysis](https://github.com/buseyurtcontact-code/Global-AI-Job-Market-Salary-Trends---Tableau-Analysis):** Analysis of compensation patterns using 9 interactive visualizations, trend lines, and cluster analysis in Tableau.
+* **[World Happiness Dashboard](https://github.com/buseyurtcontact-code/world_happiness_report2024_powerBI):** A multi-page interactive Power BI dashboard analyzing 7 key metrics (e.g., GDP per capita, social support) across 150+ countries.
 
-### 📊 İş Zekası (BI) & Görselleştirme
-* **[Global Yapay Zeka İş Piyasası Analizi](https://github.com/buseyurtcontact-code/Global-AI-Job-Market-Salary-Trends---Tableau-Analysis):** Tableau üzerinde 9 farklı analitik görselleştirme, trend çizgileri ve kümeleme analizi ile maaş kalıplarının incelenmesi.
-* **[Dünya Mutluluk Dashboard'u](https://github.com/buseyurtcontact-code/world_happiness_report2024_powerBI):** 150'den fazla ülkenin GSMH ve sosyal destek gibi 7 temel göstergesini analiz eden çok sayfalı interaktif Power BI çalışması.
-
-### ⚙️ Otomasyon & Raporlama
-* **[Excel VBA Regresyon & Korelasyon Analiz Aracı](https://github.com/buseyurtcontact-code/excelVBA_regresyon_korelasyon):** Kullanıcı verilerine göre katsayıları, grafikleri ve istatistiksel yorumları tek tıkla üreten makro otomasyonu.
-
-
+### ⚙️ Automation & Reporting
+* **[Excel VBA Regression & Correlation Analysis Tool](https://github.com/buseyurtcontact-code/excelVBA_regresyon_korelasyon):** A macro automation tool generating regression coefficients, charts, and statistical interpretations with a single click based on user input.
